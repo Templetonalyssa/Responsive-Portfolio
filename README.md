@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Part two of HW 2
+# Basic-Portfolio
+Basic Portfolio from HW 1
